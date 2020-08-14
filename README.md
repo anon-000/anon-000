@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey Guyzzz 👋
 
  - 🔭 I’m currently working in Smartters' Studio
  - 🌱 I’m currently learning C#
