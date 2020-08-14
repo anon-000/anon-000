@@ -9,4 +9,4 @@
  - ⚡ Fun fact: Music is love
 
 ### Things I know😄
-![alt text](https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png)
+![Flutter](https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png)
