@@ -9,4 +9,11 @@
  - ⚡ Fun fact: Music is love
 
 ### Things I know😄
-![Flutter](https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png)
+ - Flutter
+ - Dart
+ 
+### Tools I Use
+ - Android Studio
+ - Git
+ - Postman
+ - VSCode
