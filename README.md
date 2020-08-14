@@ -6,6 +6,7 @@
  - 🤔 I’m looking for help with PhaserJs
  - 💬 Ask me about Flutter
  - 📫 How to reach me: LinkedIn or Twitter 
- - 😄 Pronouns: He/His
  - ⚡ Fun fact: Music is love
 
+### Things I know😄
+![alt text](https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png)
