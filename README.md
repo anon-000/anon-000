@@ -8,12 +8,12 @@
  - 📫 How to reach me: LinkedIn or Twitter 
  - ⚡ Fun fact: Music is love
 
-### Things I know😄
+### Things I know 😄
  - C
  - Flutter
  - Dart
  
-### Tools I Use
+### Tools I Use 🔭
  - Android Studio
  - Git
  - Postman
