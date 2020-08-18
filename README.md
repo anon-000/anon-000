@@ -9,6 +9,7 @@
  - ⚡ Fun fact: Music is love
 
 ### Things I know😄
+ - C
  - Flutter
  - Dart
  
