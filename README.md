@@ -10,8 +10,9 @@
 
 ### Things I know 😄
  - C
- - Flutter
  - Dart
+ - Flutter
+ - Firebase
  
 ### Tools I Use 🔭
  - Android Studio
