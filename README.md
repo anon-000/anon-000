@@ -22,3 +22,4 @@
  
 ### Connect with me
  - [Instagram | aurosmruti](https://www.instagram.com/aurosmruti/)
+ - [LinkedIn | aurosmruti](https://www.linkedin.com/in/aurosmruti-das-958413175)
