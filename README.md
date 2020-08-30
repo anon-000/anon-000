@@ -19,3 +19,6 @@
  - Git
  - Postman
  - VSCode
+ 
+### Connect with me
+ - [Instagram||aurosmruti](https://www.instagram.com/aurosmruti/)
