@@ -21,5 +21,7 @@
  - VSCode
  
 ### Connect with me
- - [Instagram | aurosmruti](https://www.instagram.com/aurosmruti/)
- - [LinkedIn | aurosmruti](https://www.linkedin.com/in/aurosmruti-das-958413175)
+ - [LinkedIn](https://www.linkedin.com/in/aurosmruti-das-958413175)
+ - [GitLab](https://gitlab.com/anon_000)
+ - [Instagram](https://www.instagram.com/aurosmruti/)
+ 
