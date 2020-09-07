@@ -8,6 +8,9 @@
  - 📫 How to reach me: LinkedIn or Twitter 
  - ⚡ Fun fact: Music is love
 
+
+<img src='https://github-readme-stats.vercel.app/api?username=anon-000&show_icons=true&theme=gruvbox'>
+
 ### Things I know 😄
  - C
  - Dart
