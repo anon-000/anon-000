@@ -16,6 +16,8 @@
  - Dart
  - Flutter
  - Firebase
+ - Javascript
+
  
 ### Tools I Use 🔭
  - Android Studio
