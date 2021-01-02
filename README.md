@@ -21,9 +21,9 @@
  
 ### Tools I Use 🔭
  - Android Studio
- - Git
  - Postman
  - VSCode
+ - Git
  
 ### Connect with me
  - [LinkedIn](https://www.linkedin.com/in/aurosmruti-das-958413175)
