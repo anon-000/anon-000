@@ -1,7 +1,7 @@
 ### Hey Guyzzz 👋
 
  - 🔭 I’m currently working in Smartters' Studio
- - 🌱 I’m currently learning python
+ - 🌱 I’m currently learning NodeJs
  - 👯 I’m not looking to collaborate on youtube
  - 🤔 I’m looking for help with PhaserJs
  - 💬 Ask me about Flutter
