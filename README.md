@@ -17,6 +17,7 @@
  - Flutter
  - Firebase
  - Javascript
+ - Bash
 
  
 ### Tools I Use 🔭
