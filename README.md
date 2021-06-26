@@ -8,6 +8,7 @@
  - 📫  How to reach me: LinkedIn or Twitter 
  - ⚡  Music is love
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/anon000x.png" alt="TryHackMe">
 
 <img src='https://github-readme-stats.vercel.app/api?username=anon-000&show_icons=true&theme=gruvbox'>
 
