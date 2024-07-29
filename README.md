@@ -1,6 +1,6 @@
 ### Hey Guyzzz 👋
 
- - 🔭  I’m currently working in Smartters' Studio
+ - 🔭  I’m currently working in BraynixAI
  - 🌱  I’m currently learning Node Js
  - 👯  I’m not looking to collaborate on youtube
  - 🤔  I’m looking for help with PhaserJs
