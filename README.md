@@ -12,17 +12,16 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=anon-000&show_icons=true&theme=gruvbox'>
 
-### Things I know 😄
- - C
+### Programming I know 😄
  - Dart
- - Flutter
- - Firebase
  - Javascript
+ - Flutter
+ - Python
  - Bash
 
  
 ### Tools I Use 🔭
- - Android Studio
+ - Android Studio & Xcode
  - Postman
  - VSCode
  - Git
