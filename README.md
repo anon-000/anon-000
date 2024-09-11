@@ -1,9 +1,9 @@
 ### Hey Guyzzz 👋
 
  - 🔭  I’m currently working in BraynixAI
- - 🌱  I’m currently learning Node Js
+ - 🌱  I’m currently learning so many things (devops, scaling, agents)
  - 👯  I’m not looking to collaborate on youtube
- - 🤔  I’m looking for help with PhaserJs
+ - 🤔  I’m looking for help with blender
  - 💬  Ask me about Flutter
  - 📫  How to reach me: LinkedIn or Twitter 
  - ⚡  Music is love
