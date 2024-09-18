@@ -12,6 +12,9 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=anon-000&show_icons=true&theme=gruvbox'>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anon-000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ### Programming I know 😄
  - Dart
  - Javascript
