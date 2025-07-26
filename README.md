@@ -1,6 +1,6 @@
 ### Hey Guyzzz 👋
 
- - 🔭  I’m currently working in BraynixAI
+ - 🔭  I’m currently working at Digifortex
  - 🌱  I’m currently learning so many things (devops, scaling, agents)
  - 👯  I’m not looking to collaborate on youtube
  - 🤔  I’m looking for help with blender
