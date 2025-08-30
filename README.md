@@ -3,8 +3,8 @@
  - 🔭  I’m currently working at Digifortex
  - 🌱  I’m currently learning so many things (devops, scaling, agents)
  - 👯  I’m not looking to collaborate on youtube
- - 🤔  I’m looking for help with blender
- - 💬  Ask me about Flutter
+ - 🤔  I’m looking for help with agentic AI
+ - 💬  Ask me about Flutter, ReactJs, nodeJS & AWS Cloud Security
  - 📫  How to reach me: LinkedIn or Twitter 
  - ⚡  Music is love
 
