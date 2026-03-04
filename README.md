@@ -2,7 +2,7 @@
 
 # Hey, I'm Auro 👋
 
-**Backend Engineer • Cloud Security • Agentic AI**
+**Backend Engineer • Cloud Security • AI**
 
 `building things that scale, break gracefully, and occasionally do what they're told`
 
@@ -76,9 +76,9 @@
 
 | Project | Stack | What It Does |
 |---------|-------|-------------|
+| **[Epoch](https://github.com/anon-000/epoch)** | FastAPI, PostgreSQL, Redis, Next.js, Docker | Fault-tolerant distributed job scheduler with priority queues, leader election, checkpointing, tenant isolation & real-time dashboard |
 | **Agentic AI Orchestration Platform** | FastAPI, Kafka, PostgreSQL, Redis, AWS | Event-driven multi-agent system bridging deterministic DAGs with agentic reasoning across 10+ service types |
 | **Cloud Native App Platform (CNAPP)** | Python, PostgreSQL, AWS | End-to-end cloud security — misconfiguration detection, compliance enforcement, runtime protection |
-| **Distributed Telemetry Pipelines** | Kafka, Redis, Kubernetes, OpenSearch | Ingestion pipelines handling 5M+ events/day with 40% reduced alert latency |
 | **Pawzible Pets** | Flutter, Node.js, Next.js, MongoDB | Full-stack pet service platform — 1K+ downloads on pilot launch |
 
 ---
@@ -87,18 +87,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anon-000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon-000&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anon-000&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-### 🏅 TryHackMe
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/anon000x.png" alt="TryHackMe Badge">
 
 ---
 
