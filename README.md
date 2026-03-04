@@ -18,7 +18,7 @@
 ### 🧠 About Me
 
 - 🔭 Currently at **DigiFortex** — architecting CNAPP & SOC modules, building telemetry pipelines that handle **5M+ events/day**
-- 🛠️ 4+ years shipping production systems across **cybersecurity, AI products, and distributed backends**
+- 🛠️ 5+ years shipping production systems across **cybersecurity, AI products, and distributed backends**
 - 🤖 Deep into **agentic AI orchestration** — designing multi-agent systems with dynamic DAG workflows
 - 🌱 Learning **Go** and leveling up on **distributed systems & system design**
 - ⚡ Fun fact: I've shipped 6+ mobile apps across fintech, healthcare, edtech, and ecommerce before going full backend
